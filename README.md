@@ -6,7 +6,7 @@
 ### <div align="center">I'm Oguz, a Computer Engineering Student 👨‍💻 working individually since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [GÖKTAŞ AGV](https://www.linkedin.com/company/g%C3%B6kta%C5%9F-agv/) and [Mam High Tech](https://www.mamhightech.com/index.html)  
+- 🔭 I’m currently working in [GÖKTAŞ AGV](https://www.linkedin.com/company/g%C3%B6kta%C5%9F-agv/) and [Mam High Tech](https://www.mamhightech.com/index.html)  
   
 
 - 🌱 I’m currently learning Machine Learning and Automation Algorithm Design  
