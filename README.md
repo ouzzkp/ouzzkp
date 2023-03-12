@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="center" height="300" width="300" />
 </div>  
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
 
 ###
   
@@ -38,6 +37,7 @@
 
 </td><td valign="top" width="50%">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
 
 
 ### Languages / Technologies  
