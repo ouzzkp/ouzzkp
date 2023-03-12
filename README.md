@@ -56,9 +56,9 @@
 </td></tr></table>  
 
 <br/>  
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
-
+</div>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ouzzkp" target="_blank">
