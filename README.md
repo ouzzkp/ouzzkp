@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="center" height="300" width="300" />
 </div>  
+<img src="https://raw.githubusercontent.com/ouzzkp/ouzzkp/blob/output/snake.svg" alt="Snake animation" />
+
+###
   
 
 ### <div align="center">I'm Oguz, a Computer Engineering Student 👨‍💻 working individually since 2019 🚀</div>  
