@@ -37,7 +37,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
 
 
 ### Languages / Technologies  
@@ -58,6 +57,7 @@
 
 <br/>  
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
 
 ## Connect with me  
 <div align="center">
