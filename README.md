@@ -80,10 +80,7 @@
 
  
 
-<br/>  
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" alt="Snake animation" />
-</div>
+<br/>
 
 ## Connect with me  
 <div align="center">
